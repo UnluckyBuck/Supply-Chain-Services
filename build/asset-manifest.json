@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d05bbdb1.css",
+    "main.js": "/static/js/main.906701b1.js",
+    "static/js/787.2a8c792d.chunk.js": "/static/js/787.2a8c792d.chunk.js",
+    "static/media/portrait.jpg": "/static/media/portrait.abef2e55d6547c04e5cb.jpg",
+    "static/media/portrait.webp": "/static/media/portrait.1e9a0e7a80597ae81970.webp",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/project-cunico.jpg": "/static/media/project-cunico.53e287fd1195320f144b.jpg",
+    "static/media/project-boldens.webp": "/static/media/project-boldens.d33163b1eabc382e0885.webp",
+    "static/media/project-cunico.webp": "/static/media/project-cunico.f1604c32c1ca95d95f35.webp",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/project-boldens.jpg": "/static/media/project-boldens.3fda8af5cc2b1af9c5cc.jpg",
+    "static/media/project-firstatlantic.jpg": "/static/media/project-firstatlantic.cb8b6de75c3d30d96470.jpg",
+    "static/media/project-firstatlantic.webp": "/static/media/project-firstatlantic.2cdba50387e2c42b63f9.webp",
+    "static/media/project-usc.jpg": "/static/media/project-usc.15b5e8c9e98442c3478a.jpg",
+    "static/media/project-usc.webp": "/static/media/project-usc.788f306dc903815fa9ba.webp",
+    "static/media/elk-male.png": "/static/media/elk-male.f888c4eef696abbc2eb0.png",
+    "static/media/elk-female.png": "/static/media/elk-female.ff5b3eb9f74e3d4b2478.png",
+    "static/media/elk-male.webp": "/static/media/elk-male.5dac6ce7c69e56a5ed57.webp",
+    "static/media/elk-female.webp": "/static/media/elk-female.916b1dd955838734d5c4.webp",
+    "index.html": "/index.html",
+    "main.d05bbdb1.css.map": "/static/css/main.d05bbdb1.css.map",
+    "main.906701b1.js.map": "/static/js/main.906701b1.js.map",
+    "787.2a8c792d.chunk.js.map": "/static/js/787.2a8c792d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d05bbdb1.css",
+    "static/js/main.906701b1.js"
+  ]
+}
